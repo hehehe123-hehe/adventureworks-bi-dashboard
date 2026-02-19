@@ -102,9 +102,13 @@ AdventureWorks-BI/
 │
 ├── 📂 docs/
 │   └── dashboard_blueprint.xlsx      # Full chart & DAX blueprint
+|   └── DAX_REFERENCE.md
 │
 ├── dashboard.pbix                    # Power BI dashboard file
+├── SETUP.md
+├── .gitignore
 └── README.md
+
 ```
 
 ---
@@ -395,7 +399,7 @@ Z-Score scatter + Transaction count by Z-Score band + Outlier bar by category + 
 
 ## 👥 Authors
 
-Built by **[@hehehe123-hehe](https://github.com/hehehe123-hehe)** with AI assistance from **Claude (Anthropic)**
+Built by **[@hehehe123-hehe](https://github.com/hehehe123-hehe)**
 
 ---
 
