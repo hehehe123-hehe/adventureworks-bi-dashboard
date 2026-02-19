@@ -1,0 +1,36 @@
+# Power BI temp files
+*.pbix.bak
+*.pbix.lock
+.pbi/
+
+# SQL Server backup files (too large for GitHub)
+*.bak
+*.mdf
+*.ldf
+*.ndf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Temp / cache
+__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+~$*
+
+# Excel temp
+~$*.xlsx
+~$*.xlsm
+
+# Large assets — store externally if needed
+assets/screenshots/*.png
+assets/screenshots/*.jpg
